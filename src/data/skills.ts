@@ -7,12 +7,12 @@ export type SkillCategory = {
 export const skills: SkillCategory[] = [
   {
     title: "Frontend",
-    icon: "✨",
+    icon: "⚛️",
     items: ["Next.js", "React", "TypeScript", "Tailwind CSS", "Framer Motion"],
   },
   {
     title: "Backend",
-    icon: "🛠️",
+    icon: "⚙️",
     items: ["Node.js", "API REST", "Auth", "Bases de données", "Architecture"],
   },
   {
